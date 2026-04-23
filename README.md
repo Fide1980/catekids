@@ -1,2 +1,2 @@
-# catekids
-proyecto de catequesisi
+# CateKids
+App de catequesis infantil interactiva
